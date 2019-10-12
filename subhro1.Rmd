@@ -1,6 +1,6 @@
 ---
 title: "practical machine learning proj"
-author: "Srijan Banerjee"
+author: "Subhrajyoti Biswas"
 date: "October 12, 2019"
 output: html_document
 ---
